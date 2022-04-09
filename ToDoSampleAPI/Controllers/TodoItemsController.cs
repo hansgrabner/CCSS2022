@@ -9,6 +9,12 @@ using Microsoft.EntityFrameworkCore;
 using ToDoSampleAPI.Models;
 
 namespace ToDoSampleAPI.Controllers
+
+/*Start
+ * 
+ * New-AzWebApp -ResourceGroupName Default-Web-WestUS -Name "ContosoSite" -Location "West US" -AppServicePlan "ContosoServicePlan"
+ * 
+ */
 {
     [Route("api/[controller]")]
     [ApiController]

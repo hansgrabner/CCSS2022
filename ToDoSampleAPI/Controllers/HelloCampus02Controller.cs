@@ -36,7 +36,7 @@ namespace ToDoSampleAPI.Controllers
 
             var greeting = Configuration["Greeting"];
 
-            return greeting;
+            return greeting + "git ";
         }
 
         // POST api/<HelloCampus02Controller>
