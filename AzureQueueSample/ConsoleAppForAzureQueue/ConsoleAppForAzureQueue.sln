@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForAzureQueue", "ConsoleAppForAzureQueue\ConsoleAppForAzureQueue.csproj", "{1073B168-A09B-445B-88D2-DFDC9941BDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1073B168-A09B-445B-88D2-DFDC9941BDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1073B168-A09B-445B-88D2-DFDC9941BDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1073B168-A09B-445B-88D2-DFDC9941BDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1073B168-A09B-445B-88D2-DFDC9941BDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4DAAED-E3EA-40D7-BBB6-EF0FC316E8BF}
+	EndGlobalSection
+EndGlobal
