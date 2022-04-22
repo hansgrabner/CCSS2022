@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoBlobStorage", "DemoBlob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoConfigSettings", "DemoConfigSettings\DemoConfigSettings.csproj", "{F0BED5C8-998B-4151-8152-7E51F23ACC9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoSampleAPI", "ToDoSampleAPI\ToDoSampleAPI.csproj", "{BD6C22B4-87D9-4F31-9661-C4B1DB020CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoSampleAPI", "ToDoSampleAPI\ToDoSampleAPI.csproj", "{BD6C22B4-87D9-4F31-9661-C4B1DB020CB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
