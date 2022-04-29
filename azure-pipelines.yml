@@ -42,3 +42,4 @@ steps:
     WebAppName: 'AppForGitHub'
     VirtualApplication: 'GitHubToDo'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    
